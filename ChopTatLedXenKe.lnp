@@ -1,0 +1,4 @@
+"mainxk.obj",
+".\Delay.obj" 
+TO "ChopTatLedXenKe" 
+RAMSIZE(256) 
